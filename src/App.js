@@ -83,9 +83,7 @@ function App() {
         ) : (
           ""
         )}
-        <p align="center">
-          made with <span>❤️</span> by rushikesh chaudhari
-        </p>
+        <p align="center">made with love by rushikesh chaudhari</p>
       </main>
     </div>
   );
